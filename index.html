@@ -1,1 +1,39 @@
-Hello world
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script type="text/javascript">
+        function checkWords() {
+            var firstWord = prompt("Enter first word")
+            var secondWord = prompt("Enter secong word")
+
+            var sortedFirstWordLetters = firstWord.split("").sort().join("")
+            var sortedSecondWordLetters = secondWord.split("").sort().join("")
+
+            if (sortedFirstWordLetters === sortedSecondWordLetters) {
+                alert("Yes")
+            }
+            else {
+                alert("No")
+            }
+        }
+
+        for (var i = 0; i < 10; i++) {
+            function logNumber() {
+                var number = i
+                setTimeout(function() {
+                    console.log(number);
+                }, 1000);
+            }
+            
+            logNumber()
+        }
+    </script>
+  </head>
+
+<body>
+    <form>
+        <input type="button" value="Check words" onclick="checkWords()">
+    </form>
+</body>
+</html>
