@@ -1,6 +1,6 @@
 function checkWords() {
     var firstWord = prompt("Enter first word")
-    var secondWord = prompt("Enter secong word")
+    var secondWord = prompt("Enter second word")
 
     var sortedFirstWordLetters = firstWord.split("").sort().join("")
     var sortedSecondWordLetters = secondWord.split("").sort().join("")
