@@ -143,9 +143,8 @@ function onInputKeydown(event) {
 }
 
 function checkIfTodoAlreadyExists(todoName) {
-    var todoElements = listElement.querySelectorAll('.task__name');
-    var namesList = Array.prototype.map.call(todoElements, function(element) {
-        return element.textContent;
+    var namesList = Array.prototype.map.call(todoList, function(element) {
+        return element.name;
     });
     return namesList.indexOf(todoName) > -1;
 }
