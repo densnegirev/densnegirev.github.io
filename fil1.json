@@ -1,0 +1,162 @@
+{
+   "tests": {
+      "assessmentItem": [
+         {
+            "responseDeclaration": {
+               "correctResponse": {
+                  "value": [
+                     "ChoiceA",
+                     "ChoiceB"
+                  ]
+               },
+               "_identifier": "RESPONSE",
+               "_cardinality": "multiple"
+            },
+            "itemBody": {
+               "choiceInteraction": {
+                  "prompt": "Главной отличительной чертой мобилизационной модели развития экономики СССР в середине XX века является: ",
+                  "simpleChoice": [
+                     {
+                        "_identifier": "ChoiceA",
+                        "__text": "*чрезвычайность"
+                     },
+                     {
+                        "_identifier": "ChoiceB",
+                        "__text": "*временность"
+                     },
+                     {
+                        "_identifier": "ChoiceC",
+                        "__text": "постоянство"
+                     },
+                     {
+                        "_identifier": "ChoiceD",
+                        "__text": "стабильность"
+                     },
+                     {
+                        "_identifier": "ChoiceE",
+                        "__text": "экстенсивность"
+                     }
+                  ]
+               }
+            },
+            "_number": "121",
+            "_author": "Харитонова Е.Н."
+         },
+         {
+            "responseDeclaration": {
+               "correctResponse": {
+                  "value": "ChoiceB"
+               },
+               "_identifier": "RESPONSE",
+               "_cardinality": "single"
+            },
+            "itemBody": {
+               "choiceInteraction": {
+                  "prompt": "Советский стиль управления в практике хозяйствования «позднего социализма» (в период до 1991 года) характеризуется как … ",
+                  "simpleChoice": [
+                     {
+                        "_identifier": "ChoiceA",
+                        "__text": "стабилизация"
+                     },
+                     {
+                        "_identifier": "ChoiceB",
+                        "__text": "*деградация"
+                     },
+                     {
+                        "_identifier": "ChoiceC",
+                        "__text": "развитие"
+                     },
+                     {
+                        "_identifier": "ChoiceD",
+                        "__text": "активизация"
+                     },
+                     {
+                        "_identifier": "ChoiceE",
+                        "__text": "совершенствование"
+                     }
+                  ]
+               }
+            },
+            "_number": "122",
+            "_author": "Харитонова Е.Н."
+         },
+         {
+            "responseDeclaration": {
+               "correctResponse": {
+                  "value": "ChoiceB"
+               },
+               "_identifier": "RESPONSE",
+               "_cardinality": "single"
+            },
+            "itemBody": {
+               "choiceInteraction": {
+                  "prompt": "Идея автоматизации управления экономикой СССР на основе повсеместного применения электронно-вычислительных машин (ЭВМ) появилась в … году. ",
+                  "simpleChoice": [
+                     {
+                        "_identifier": "ChoiceA",
+                        "__text": "1952"
+                     },
+                     {
+                        "_identifier": "ChoiceB",
+                        "__text": "*1962"
+                     },
+                     {
+                        "_identifier": "ChoiceC",
+                        "__text": "1972"
+                     },
+                     {
+                        "_identifier": "ChoiceD",
+                        "__text": "1982"
+                     },
+                     {
+                        "_identifier": "ChoiceE",
+                        "__text": "1992"
+                     }
+                  ]
+               }
+            },
+            "_number": "123",
+            "_author": "Харитонова Е.Н."
+         },
+         {
+            "responseDeclaration": {
+               "correctResponse": {
+                  "value": "ChoiceC"
+               },
+               "_identifier": "RESPONSE",
+               "_cardinality": "single"
+            },
+            "itemBody": {
+               "choiceInteraction": {
+                  "prompt": "Автором идеи расширения хозяйственной самостоятельности предприятий в СССР в 1960-е годы был: ",
+                  "simpleChoice": [
+                     {
+                        "_identifier": "ChoiceA",
+                        "__text": "В.М. Глушков"
+                     },
+                     {
+                        "_identifier": "ChoiceB",
+                        "__text": "В.В. Новожилов"
+                     },
+                     {
+                        "_identifier": "ChoiceC",
+                        "__text": "*Е.Г. Либерман"
+                     },
+                     {
+                        "_identifier": "ChoiceD",
+                        "__text": "В.С. Немчинов"
+                     },
+                     {
+                        "_identifier": "ChoiceE",
+                        "__text": "Л.В. Канторович"
+                     }
+                  ]
+               }
+            },
+            "_number": "124",
+            "_author": "Харитонова Е.Н."
+         }
+      ],
+      "_tema": "Data1/fil-1"
+   }
+}
