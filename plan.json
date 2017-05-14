@@ -1,76 +1,21 @@
 {
     "plan": {
-        "code": "09.09.03",
-        "speciality": "Прикладная информатика",
-        "year": "2014",
-        "profile": "Прикладная информатика в экономике",
         "discipline": [
             {
-                "spec": "ПИ-2014",
-                "code": "Б.1.1.1.6",
                 "title": "Философия",
-                "kaf": "Философия",
-                "exams": "2",
-                "zachet": "1",
-                "ZE": "4",
-                "ZE-ekz": "3",
-                "total": "144",
-                "aud": "68",
-                "lections": "32",
-                "seminars": "36",
-                "SRS": "76",
-                "SRS-sem": "40",
-                "SRS-ekz": "36",
-                "sem1": "1",
-                "ZE1": "4",
-                "hour-week1": "2",
-                "lections1": "16",
-                "seminars1": "18",
-                "SRS1": "20",
-                "sem2": "2",
-                "hour-week2": "2",
-                "lections2": "16",
-                "seminars2": "18",
-                "SRS2": "56",
-                "cut": "Фил"
+                "link": "https://raw.githubusercontent.com/densnegirev/densnegirev.github.io/master/fil1.json"
             },
             {
-                "code": "Б.1.1.3.7",
-                "kaf": "ОМ",
                 "title": "Теория и история менеджемента",
-                "sem1": "1",
-                "lections1": "18",
-                "seminars1": "18",
-                "SRS1": "54",
-                "sem2": "2",
-                "lections2": "18",
-                "seminars2": "18",
-                "SRS2": "54",
-                "cut": "ТиИМ"
+                "link": "https://raw.githubusercontent.com/densnegirev/densnegirev.github.io/master/fil1.json"
             },
             {
-                "code": "Б.1.1.3.12",
-                "kaf": "ЭТ",
                 "title": "Экономическая теория",
-                "sem1": "1",
-                "lections1": "18",
-                "seminars1": "36",
-                "SRS1": "54",
-                "sem2": "2",
-                "lections2": "18",
-                "seminars2": "18",
-                "SRS2": "72",
-                "cut": "ЭТ"
+                "link": "https://raw.githubusercontent.com/densnegirev/densnegirev.github.io/master/fil1.json"
             },
             {
-                "code": "Б.1.1.3.4",
-                "kaf": "СиАМен",
                 "title": "Основы бизнеса",
-                "sem1": "2",
-                "lections1": "18",
-                "seminars1": "36",
-                "SRS1": "54",
-                "cut": "ОБ"
+                "link": "https://raw.githubusercontent.com/densnegirev/densnegirev.github.io/master/fil1.json"
             }
         ]
     }
