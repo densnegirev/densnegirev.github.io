@@ -1,0 +1,22 @@
+{
+    "plan": {
+        "discipline": [
+            {
+                "title": "Философия",
+                "link": "https://raw.githubusercontent.com/densnegirev/densnegirev.github.io/master/fil1.json"
+            },
+            {
+                "title": "Теория и история менеджемента",
+                "link": "https://raw.githubusercontent.com/densnegirev/densnegirev.github.io/master/fil1.json"
+            },
+            {
+                "title": "Экономическая теория",
+                "link": "https://raw.githubusercontent.com/densnegirev/densnegirev.github.io/master/fil1.json"
+            },
+            {
+                "title": "Основы бизнеса",
+                "link": "https://raw.githubusercontent.com/densnegirev/densnegirev.github.io/master/fil1.json"
+            }
+        ]
+    }
+}
