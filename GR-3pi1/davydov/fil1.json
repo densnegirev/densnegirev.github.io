@@ -20,11 +20,11 @@
                   "simpleChoice": [
                      {
                         "_identifier": "ChoiceA",
-                        "__text": "*чрезвычайность"
+                        "__text": "чрезвычайность"
                      },
                      {
                         "_identifier": "ChoiceB",
-                        "__text": "*временность"
+                        "__text": "временность"
                      },
                      {
                         "_identifier": "ChoiceC",
@@ -60,7 +60,7 @@
                      },
                      {
                         "_identifier": "ChoiceB",
-                        "__text": "*деградация"
+                        "__text": "деградация"
                      },
                      {
                         "_identifier": "ChoiceC",
@@ -96,7 +96,7 @@
                      },
                      {
                         "_identifier": "ChoiceB",
-                        "__text": "*1962"
+                        "__text": "1962"
                      },
                      {
                         "_identifier": "ChoiceC",
@@ -136,7 +136,7 @@
                      },
                      {
                         "_identifier": "ChoiceC",
-                        "__text": "*Е.Г. Либерман"
+                        "__text": "Е.Г. Либерман"
                      },
                      {
                         "_identifier": "ChoiceD",
