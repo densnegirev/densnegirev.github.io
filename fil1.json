@@ -18,11 +18,11 @@
                   "simpleChoice": [
                      {
                         "_identifier": "ChoiceA",
-                        "__text": "*чрезвычайность"
+                        "__text": "чрезвычайность"
                      },
                      {
                         "_identifier": "ChoiceB",
-                        "__text": "*временность"
+                        "__text": "временность"
                      },
                      {
                         "_identifier": "ChoiceC",
@@ -60,7 +60,7 @@
                      },
                      {
                         "_identifier": "ChoiceB",
-                        "__text": "*деградация"
+                        "__text": "деградация"
                      },
                      {
                         "_identifier": "ChoiceC",
